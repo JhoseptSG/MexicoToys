@@ -10,7 +10,7 @@ This section provides details about sales, cost, and profits for each store. It 
 ## Product Details
 This section provides details about sales, cost, and profits for each product. It includes a graphical representation of profits over time, a bar plot of top products by profit, and a chart of sales by city. The section also includes a table of sales by product category and month. Filters are available to allow users to filter by year, month, product category, product name, and store location.
 
-# How to Use
+## How to Use
 To view the Power BI report, you will need to have Power BI Desktop installed on your computer. Once you have downloaded the project files, open the Sales Toys.pbix file in Power BI Desktop.
 
 ## Data Sources
