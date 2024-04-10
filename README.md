@@ -1,8 +1,10 @@
 # Sales Analysis Dashboard
 This Power BI project analyzes sales data from a fictional company, providing insights into total sales, cost, and profits. The project includes data from tables such as products, sales, and stores. The dashboard is divided into three sections, each with its own set of analysis tools.
 
-## Sales Overview
+## Sales Overview 
 This section provides an overview of total sales, cost, and profits for the selected time period. It includes a bar plot of the top stores by profit, a pie chart of product categories by sales, and a bar plot of the top products by profit. Additionally, the section displays a graphical representation of profits over time.
+
+![Sales OverView](Toys_page-0001.jpg)
 
 ## Store Details
 This section provides details about sales, cost, and profits for each store. It includes a graphical representation of profits over time, a bar plot of top cities by profit, and a map of sales by city. The section also includes a table of sales by store and month. Filters are available to allow users to filter by year, month, product category, product name, and store location.
